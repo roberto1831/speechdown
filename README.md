@@ -99,7 +99,9 @@ npm run dev
 La aplicación frontend estará disponible en `http://localhost:5173` (o el puerto que Vite indique).
 
 ---
+## 📄 Documentación de la API
 
+Para una descripción detallada de todos los endpoints disponibles en el backend, consulta nuestra [Documentación de la API](./docs/api.md).
 
 ## 📝 Licencia
 
